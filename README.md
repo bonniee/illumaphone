@@ -9,4 +9,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Read more about the project on my blog: [http://blog.bonnieeisenman.com/projects/illumaphone/](http://blog.bonnieeisenman.com/projects/illumaphone/)
 
-Or, read the Instructable: TODO.
+Or, read the Instructable: [http://www.instructables.com/id/Illumaphone-Light-based-Electronic-Musical-Instrum/](http://www.instructables.com/id/Illumaphone-Light-based-Electronic-Musical-Instrum/)
